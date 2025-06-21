@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "circular-signal-435520-a1",
+  "private_key_id": "d03cf48f44af68236b104231091d10cfe97938a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC929gYokIzZo5H\nj2gVw+AuMg4nBsa7ZmQrJyH2DVtJap5+7gzJPfuyeJBdwuFNDWHMKtjLlaGJYkkS\ncO1JflpfgdIxvCTLRzbe6VTIzmQ6adzl+UiOELoW15Tml+Pn2itAolv72HRP3LsP\ngve0X6/2ybhlsnVzjYsOXMG/NgLpdA2p5HnqDggVWvgmS0P8cJd7TPkySLWSqw56\nJ3yxo1H+/4IV1TXLAYvzd1j+EwPRLtO+/v/Ie2g9SI+4e5Sqn35qXO59EX0iqxjc\nNwNwk5bBHAZizhJoW6JPqyEsUX7ZzUXGih01ChOGMWCwztf2vy4K8eOOadBjQ6I1\nJ7y7m9jfAgMBAAECggEAPzCvJU/H8dyl6UphLbFSaX2ueS3HsjK7jyNIqeC7K93J\nH9zyM36mSbnX7uUAYMld7fqqymOkbpngUTt1tprP0G7gez4wDtpGeH23gtgywsBe\nTcqg6+vES/r3q6INMCtMbwg6zkE2QShpuBlygT3BzsVH0s1JSyrmh+K2d4IuCO3N\nJ07okcxVc/B9b2ChQvBFLsMq10w3aAZZYMNc+4wg1dAOuq+TuHP4L9gZHJzY7ztd\nZ/sJehj/BSiDq6g3tSTkrehtBrmV1bw4ltuU5/LCgqE4erA7mqRyd2N+rAoRWb7e\nQgLUHYsympqJUvg6NX3ufTwzDmn7b51PUXTug4FeeQKBgQDci+vXlgIXUycgrlxt\n6QytyJ3y9rDCbQgmurkmhLnBagSqBCL7/30d3zp6MZ9CXYXgNTsxOlkSHg7jxXKb\nqIObFG9P1Oe3cmQrfL8na9Lny36pPAhRwl8Gc1jfxTQU2i0gkneKcf/xZCpx0TQc\nXUqjYRt+D2aIyWcxF0Iud38h6QKBgQDcYQnAyCTmm/pONQRk9CjNFxQaUGzK7fA1\nSG1TDHpAmuJwDXGrvMSvYexn+JldR+E1RQUGxty+feuA4vOessaPiMfe1Gb1jTtG\nan4Wn7ZPF487Yw3PfxL7pKr1WcANaA8r6YQgkvy0hfL1Z5lnjXWBFydkSTT2Krzy\ns3TZ/W/fhwKBgQCzufbMrfswRNwq/sxl6Tgi2s0UtUIgfzfYT+wYXqr92kbIwiw8\nTd0JHeQKtiuBqrMxnk+Jc3IomIQry7j07qOpGkMHvInEbh0Bb1xbZLvvl161zS0+\na3aCzDcNzCgAIjgKRjHSico4Thdkv0aHIuNzNuxvk19Mc0x7reeJ9GmPGQKBgQCh\n1qFS8agnsmQfCtAvUx6jfk9FA8rhO9srRgUC+CbPSu7/WuAfPoEySrdRoz79Qcwh\nUo5ea6uwOMi53fEKmj83KTueaF0z9oORMqNl+ePoMWT+N7/soWVPZ54kj8R6E/EQ\nTmy5fzgVWkkR7wK5CSlBo79J5nj+TmRz11X4wCVoAQKBgQCRVV7oFcI85ntsItvj\nWYoWDP/WOjp2L2CKm1d8xVlBuT+iV9mgVM5JxApWsWd/SFyU5AAkLEU+YJP+pTer\nAoRD+GidWffd7zNSLPLC6N4DpuSVgTthwjj3wS4PsPYcCnGqiT8wM5NsLdpg3m1g\ntzZAI9nKVkZ9gCPIYa5j7fkb3g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jr-store-ai@circular-signal-435520-a1.iam.gserviceaccount.com",
+  "client_id": "108347597084399351112",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jr-store-ai%40circular-signal-435520-a1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
